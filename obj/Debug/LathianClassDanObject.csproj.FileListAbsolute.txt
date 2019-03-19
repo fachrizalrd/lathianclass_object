@@ -1,0 +1,7 @@
+D:\18.11.2248\lathianclass\LathianClassDanObject\LathianClassDanObject\bin\Debug\LathianClassDanObject.exe.config
+D:\18.11.2248\lathianclass\LathianClassDanObject\LathianClassDanObject\bin\Debug\LathianClassDanObject.exe
+D:\18.11.2248\lathianclass\LathianClassDanObject\LathianClassDanObject\bin\Debug\LathianClassDanObject.pdb
+D:\18.11.2248\lathianclass\LathianClassDanObject\LathianClassDanObject\obj\Debug\LathianClassDanObject.csprojAssemblyReference.cache
+D:\18.11.2248\lathianclass\LathianClassDanObject\LathianClassDanObject\obj\Debug\LathianClassDanObject.csproj.CoreCompileInputs.cache
+D:\18.11.2248\lathianclass\LathianClassDanObject\LathianClassDanObject\obj\Debug\LathianClassDanObject.exe
+D:\18.11.2248\lathianclass\LathianClassDanObject\LathianClassDanObject\obj\Debug\LathianClassDanObject.pdb
